@@ -1,0 +1,1 @@
+tig static binary
